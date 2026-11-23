@@ -1,0 +1,899 @@
+{
+  "brand": "Sperrtech",
+  "year": "2026",
+  "company": {
+    "short": "Özgür Yapı Alüminyum",
+    "legal": "ÖZGÜR YAPI ALÜMİNYUM İNŞ. HAFR. NAK. TUR. ve TİC. LTD. ŞTİ.",
+    "address": {
+      "tr": "Sanayi Mahallesi, Demirkırlar İş Merkezi, Şehit Ömer Yıldız Caddesi No: 3/A, Ortahisar / Trabzon",
+      "en": "Sanayi Mahallesi, Demirkırlar İş Merkezi, Şehit Ömer Yıldız Caddesi No: 3/A, Ortahisar / Trabzon, Türkiye"
+    },
+    "phone": {
+      "tr": "0538 799 42 70",
+      "en": "+90 538 799 42 70"
+    },
+    "tel": "+905387994270",
+    "whatsapp": "905387994270",
+    "email": "sperrtechinfo@gmail.com",
+    "web": ""
+  },
+  "ui": {
+    "catalogTitle": {
+      "tr": "Akıllı Kilit Kataloğu",
+      "en": "Smart Lock Catalogue"
+    },
+    "coverLine": {
+      "tr": "Yüz tanıma · Parmak izi · Şifre · Kart · Uzaktan erişim",
+      "en": "Face recognition · Fingerprint · PIN · Card · Remote access"
+    },
+    "heroTitle": {
+      "tr": "Her kapıya uygun akıllı kilit.",
+      "en": "A smart lock for every door."
+    },
+    "heroText": {
+      "tr": "Çelik kapıdan cam kapıya, otel odasından pencereye: yüz tanıma, parmak izi, şifre ve kartla açılan 12 model. Perakendeciler, uygulayıcılar ve mimarlar için.",
+      "en": "From steel doors to glass doors, hotel rooms to windows: 12 models that open by face, fingerprint, PIN or card. For retailers, installers and architects."
+    },
+    "products": {
+      "tr": "Ürünler",
+      "en": "Products"
+    },
+    "allProducts": {
+      "tr": "Tüm ürünler",
+      "en": "All products"
+    },
+    "overview": {
+      "tr": "Ürün ailesi",
+      "en": "Product range"
+    },
+    "overviewLead": {
+      "tr": "Dört grupta 12 model. Her modelin ayrıntılı sayfası ilerleyen bölümdedir.",
+      "en": "Twelve models in four groups. Each model has a detailed page in the following section."
+    },
+    "all": {
+      "tr": "Tümü",
+      "en": "All"
+    },
+    "highlights": {
+      "tr": "Öne çıkan özellikler",
+      "en": "Key features"
+    },
+    "specs": {
+      "tr": "Teknik özellikler",
+      "en": "Technical specifications"
+    },
+    "box": {
+      "tr": "Kutu içeriği",
+      "en": "In the box"
+    },
+    "unlockMethods": {
+      "tr": "Açma yöntemleri",
+      "en": "Ways to unlock"
+    },
+    "compare": {
+      "tr": "Model karşılaştırma",
+      "en": "Model comparison"
+    },
+    "compareLead": {
+      "tr": "Proje için doğru modeli seçmenize yardımcı olacak özet tablo.",
+      "en": "A summary table to help you pick the right model for a project."
+    },
+    "model": {
+      "tr": "Model",
+      "en": "Model"
+    },
+    "connection": {
+      "tr": "Bağlantı",
+      "en": "Connectivity"
+    },
+    "appCol": {
+      "tr": "Uygulama",
+      "en": "App"
+    },
+    "powerCol": {
+      "tr": "Güç",
+      "en": "Power"
+    },
+    "protectionCol": {
+      "tr": "Koruma",
+      "en": "Protection"
+    },
+    "useCol": {
+      "tr": "Uygulama alanı",
+      "en": "Application"
+    },
+    "bodyCol": {
+      "tr": "Gövde",
+      "en": "Lock body"
+    },
+    "tempPin": {
+      "tr": "Geçici şifre",
+      "en": "Temporary PIN"
+    },
+    "yes": {
+      "tr": "Var",
+      "en": "Yes"
+    },
+    "page": {
+      "tr": "s.",
+      "en": "p."
+    },
+    "contents": {
+      "tr": "İçindekiler",
+      "en": "Contents"
+    },
+    "bodies": {
+      "tr": "Kilit gövdeleri",
+      "en": "Lock bodies"
+    },
+    "bodiesTitle": {
+      "tr": "Gömme kilit gövdeleri",
+      "en": "Mortise lock bodies"
+    },
+    "bodiesLead": {
+      "tr": "Kilit gövdesi bilgisi verilen modeller ve iki yaygın gövdenin ölçüleri. Ölçüler milimetredir.",
+      "en": "Models with a specified lock body, and the dimensions of two common bodies. Dimensions are in millimetres."
+    },
+    "whichBody": {
+      "tr": "Hangi kilit hangi gövdeyle?",
+      "en": "Which lock, which body?"
+    },
+    "install": {
+      "tr": "Montaj",
+      "en": "Installation"
+    },
+    "installTitle": {
+      "tr": "Montaj kılavuzu",
+      "en": "Installation guide"
+    },
+    "installLead": {
+      "tr": "Gömme gövdeli kapı kilitleri için temel adımlar. Montaj, bölge servis ekibimiz tarafından da yapılabilir.",
+      "en": "The basic steps for mortise door locks. Our regional service team can also carry out the installation."
+    },
+    "installNote": {
+      "tr": "Adımlar genel bilgilendirme amaçlıdır; ayrıntılar için ürünle gelen montaj kılavuzuna bakın.",
+      "en": "These steps are a general guide; refer to the installation manual supplied with the product for details."
+    },
+    "modelNotes": {
+      "tr": "Modele özel montaj notları",
+      "en": "Model-specific installation notes"
+    },
+    "appTitle": {
+      "tr": "Cebinizdeki anahtar",
+      "en": "The key in your pocket"
+    },
+    "appKicker": {
+      "tr": "Mobil uygulama",
+      "en": "Mobile app"
+    },
+    "appLead": {
+      "tr": "Kilitlerimizin çoğu Tuya Smart / Smart Life veya TTLock altyapısıyla çalışır. Kapıyı telefondan yönetin, kimin ne zaman girdiğini görün.",
+      "en": "Most of our locks run on Tuya Smart / Smart Life or TTLock. Manage the door from your phone and see who came in and when."
+    },
+    "appNote": {
+      "tr": "Uygulama özellikleri modele ve bağlantı tipine göre değişir. Uzaktan açma ve anlık bildirimler için Wi-Fi bağlantısı gerekir. Ekran görüntüleri temsilidir. Tuya Smart, Smart Life ve TTLock ilgili sahiplerinin ticari markalarıdır.",
+      "en": "App features vary by model and connection type. Remote unlocking and instant notifications need a Wi-Fi connection. Screens are illustrative and shown in Turkish. Tuya Smart, Smart Life and TTLock are trademarks of their respective owners."
+    },
+    "accessories": {
+      "tr": "Aksesuarlar",
+      "en": "Accessories"
+    },
+    "accessoriesLead": {
+      "tr": "İhtiyaca göre ayrı temin edilir.",
+      "en": "Supplied separately as required."
+    },
+    "whyKicker": {
+      "tr": "Güvencemiz",
+      "en": "Our commitment"
+    },
+    "whyTitle": {
+      "tr": "Kilidi satmakla kalmaz, kapıya uyarlarız.",
+      "en": "We don’t just sell the lock. We fit it to the door."
+    },
+    "whyLead": {
+      "tr": "Sperrtech, Özgür Yapı Alüminyum’un akıllı kilit markasıdır. Alüminyum doğrama sektöründeki tecrübemizi kapı ve pencere güvenliğine taşıyoruz; satış öncesinden satış sonrasına yanınızdayız.",
+      "en": "Sperrtech is the smart lock brand of Özgür Yapı Alüminyum. We bring our experience in aluminium joinery to door and window security, and stay with you from specification to after-sales service."
+    },
+    "contact": {
+      "tr": "İletişim",
+      "en": "Contact"
+    },
+    "contactTitle": {
+      "tr": "Projeniz için teklif alın",
+      "en": "Get a quote for your project"
+    },
+    "contactLead": {
+      "tr": "Konut, otel, ofis ve toplu proje ihtiyaçlarınızda ürün seçimi, keşif ve montaj planlaması için bize ulaşın.",
+      "en": "Contact us for product selection, site surveys and installation planning on residential, hotel, office and volume projects."
+    },
+    "phone": {
+      "tr": "Telefon",
+      "en": "Phone"
+    },
+    "email": {
+      "tr": "E-posta",
+      "en": "Email"
+    },
+    "address": {
+      "tr": "Adres",
+      "en": "Address"
+    },
+    "whatsapp": {
+      "tr": "WhatsApp ile yazın",
+      "en": "Message on WhatsApp"
+    },
+    "quote": {
+      "tr": "Teklif isteyin",
+      "en": "Request a quote"
+    },
+    "quoteMsg": {
+      "tr": "Merhaba, Sperrtech {code} hakkında bilgi ve teklif almak istiyorum.",
+      "en": "Hello, I would like information and a quote for the Sperrtech {code}."
+    },
+    "quoteMsgGeneral": {
+      "tr": "Merhaba, Sperrtech akıllı kilitler hakkında bilgi almak istiyorum.",
+      "en": "Hello, I would like information about Sperrtech smart locks."
+    },
+    "downloadPdf": {
+      "tr": "PDF kataloğu indir",
+      "en": "Download the PDF catalogue"
+    },
+    "details": {
+      "tr": "İncele",
+      "en": "View"
+    },
+    "back": {
+      "tr": "Tüm ürünler",
+      "en": "All products"
+    },
+    "next": {
+      "tr": "Sıradaki model",
+      "en": "Next model"
+    },
+    "disclaimer": {
+      "tr": "Ürün özellikleri modele ve siparişe göre değişebilir. Güncel bilgi için satış temsilcimize danışın.",
+      "en": "Specifications may vary by model and order. Please check with our sales team for current information."
+    },
+    "filterGroup": {
+      "tr": "Grup",
+      "en": "Group"
+    },
+    "filterUnlock": {
+      "tr": "Açma yöntemi",
+      "en": "Unlock method"
+    },
+    "noResult": {
+      "tr": "Bu seçime uyan model yok.",
+      "en": "No model matches this selection."
+    },
+    "models": {
+      "tr": "model",
+      "en": "models"
+    },
+    "scroll": {
+      "tr": "Kaydırın",
+      "en": "Scroll"
+    },
+    "colors": {
+      "tr": "Renk seçenekleri",
+      "en": "Colour options"
+    }
+  },
+  "groups": [
+    {
+      "key": "face",
+      "name": {
+        "tr": "Yüz tanıma ve görüntülü kilitler",
+        "en": "Face recognition and video locks"
+      },
+      "short": {
+        "tr": "Yüz tanıma",
+        "en": "Face recognition"
+      },
+      "desc": {
+        "tr": "Ana giriş kapıları için kameralı, ekranlı ve temassız geçişli modeller.",
+        "en": "Models with camera, screen and hands-free entry for main entrance doors."
+      }
+    },
+    {
+      "key": "finger",
+      "name": {
+        "tr": "Parmak izli ve şifreli kilitler",
+        "en": "Fingerprint and keypad locks"
+      },
+      "short": {
+        "tr": "Parmak izi ve şifre",
+        "en": "Fingerprint and PIN"
+      },
+      "desc": {
+        "tr": "Alüminyum, ahşap ve cam kapılar için; yüzeye monte ve silindir seçenekleri dahil.",
+        "en": "For aluminium, timber and glass doors, including surface-mounted and cylinder options."
+      }
+    },
+    {
+      "key": "window",
+      "name": {
+        "tr": "Pencere ve dolap kilitleri",
+        "en": "Window and cabinet locks"
+      },
+      "short": {
+        "tr": "Pencere ve dolap",
+        "en": "Window and cabinet"
+      },
+      "desc": {
+        "tr": "Pencere ve dolaplar için şifreli çözümler.",
+        "en": "Keypad solutions for windows and cabinets."
+      }
+    },
+    {
+      "key": "hotel",
+      "name": {
+        "tr": "Otel kilit sistemleri",
+        "en": "Hotel lock systems"
+      },
+      "short": {
+        "tr": "Otel",
+        "en": "Hotel"
+      },
+      "desc": {
+        "tr": "Yönetim yazılımı ve kart kodlayıcıyla çalışan kartlı oda kilitleri.",
+        "en": "Card-operated room locks that work with management software and a card encoder."
+      }
+    }
+  ],
+  "unlock": {
+    "face": {
+      "tr": "Yüz tanıma",
+      "en": "Face"
+    },
+    "fingerprint": {
+      "tr": "Parmak izi",
+      "en": "Fingerprint"
+    },
+    "pin": {
+      "tr": "Şifre",
+      "en": "PIN"
+    },
+    "card": {
+      "tr": "Kart",
+      "en": "Card"
+    },
+    "key": {
+      "tr": "Anahtar",
+      "en": "Key"
+    },
+    "app": {
+      "tr": "Uygulama",
+      "en": "App"
+    }
+  },
+  "conn": {
+    "wifi": {
+      "tr": "Wi-Fi",
+      "en": "Wi-Fi"
+    },
+    "bluetooth": {
+      "tr": "Bluetooth",
+      "en": "Bluetooth"
+    },
+    "system": {
+      "tr": "Kart sistemi",
+      "en": "Card system"
+    },
+    "none": {
+      "tr": "Bağımsız",
+      "en": "Standalone"
+    },
+    "app": {
+      "tr": "Uygulama",
+      "en": "App"
+    }
+  },
+  "doorTypes": {
+    "steel": {
+      "tr": "Çelik kapı",
+      "en": "Steel door"
+    },
+    "wood": {
+      "tr": "Ahşap kapı",
+      "en": "Timber door"
+    },
+    "aluminium": {
+      "tr": "Alüminyum kapı",
+      "en": "Aluminium door"
+    },
+    "pvc": {
+      "tr": "PVC kapı",
+      "en": "PVC door"
+    },
+    "glassFramed": {
+      "tr": "Çerçeveli cam kapı",
+      "en": "Framed glass door"
+    },
+    "glass": {
+      "tr": "Çerçevesiz cam kapı",
+      "en": "Frameless glass door"
+    },
+    "sliding": {
+      "tr": "Sürme kapı",
+      "en": "Sliding door"
+    },
+    "gate": {
+      "tr": "Bahçe ve bina girişi",
+      "en": "Gate and building entrance"
+    },
+    "window": {
+      "tr": "Pencere",
+      "en": "Window"
+    },
+    "cabinet": {
+      "tr": "Dolap ve çekmece",
+      "en": "Cabinet and drawer"
+    },
+    "hotel": {
+      "tr": "Otel odası",
+      "en": "Hotel room"
+    }
+  },
+  "labels": {
+    "unlock": {
+      "tr": "Açma yöntemleri",
+      "en": "Unlock methods"
+    },
+    "tempPin": {
+      "tr": "Geçici / sahte şifre",
+      "en": "Temporary / decoy PIN"
+    },
+    "capacity": {
+      "tr": "Kapasite",
+      "en": "Capacity"
+    },
+    "material": {
+      "tr": "Malzeme",
+      "en": "Material"
+    },
+    "finish": {
+      "tr": "Yüzey",
+      "en": "Finish"
+    },
+    "doorThickness": {
+      "tr": "Kapı kalınlığı",
+      "en": "Door thickness"
+    },
+    "glass": {
+      "tr": "Cam kalınlığı",
+      "en": "Glass thickness"
+    },
+    "latch": {
+      "tr": "Kilit dili",
+      "en": "Latch"
+    },
+    "mount": {
+      "tr": "Montaj tipi",
+      "en": "Mounting"
+    },
+    "power": {
+      "tr": "Güç",
+      "en": "Power"
+    },
+    "current": {
+      "tr": "Akım",
+      "en": "Current draw"
+    },
+    "lowBattery": {
+      "tr": "Düşük pil alarmı",
+      "en": "Low-battery alarm"
+    },
+    "cylinder": {
+      "tr": "Silindir",
+      "en": "Cylinder"
+    },
+    "cylLength": {
+      "tr": "Silindir boyu",
+      "en": "Cylinder length"
+    },
+    "spindle": {
+      "tr": "Mil",
+      "en": "Spindle"
+    },
+    "protection": {
+      "tr": "Koruma sınıfı",
+      "en": "Protection rating"
+    },
+    "durability": {
+      "tr": "Dayanım",
+      "en": "Durability"
+    },
+    "temp": {
+      "tr": "Çalışma sıcaklığı",
+      "en": "Operating temperature"
+    },
+    "conditions": {
+      "tr": "Çalışma koşulları",
+      "en": "Operating conditions"
+    },
+    "language": {
+      "tr": "Dil",
+      "en": "Language"
+    },
+    "lockBody": {
+      "tr": "Kilit gövdesi",
+      "en": "Lock body"
+    },
+    "doors": {
+      "tr": "Uygun kapılar",
+      "en": "Suitable doors"
+    },
+    "windows": {
+      "tr": "Uygun pencereler",
+      "en": "Suitable windows"
+    },
+    "uses": {
+      "tr": "Kullanım alanları",
+      "en": "Typical uses"
+    },
+    "system": {
+      "tr": "Yönetim sistemi",
+      "en": "Management system"
+    },
+    "card": {
+      "tr": "Kart teknolojisi",
+      "en": "Card technology"
+    },
+    "panelWidth": {
+      "tr": "Panel genişliği",
+      "en": "Panel width"
+    },
+    "dims": {
+      "tr": "Ölçüler",
+      "en": "Dimensions"
+    },
+    "colors": {
+      "tr": "Renk seçenekleri",
+      "en": "Colour options"
+    },
+    "camera": {
+      "tr": "Kamera ve ekran",
+      "en": "Camera and screen"
+    },
+    "features": {
+      "tr": "Özellikler",
+      "en": "Features"
+    },
+    "security": {
+      "tr": "Güvenlik",
+      "en": "Security"
+    },
+    "options": {
+      "tr": "Opsiyonlar",
+      "en": "Options"
+    },
+    "sensor": {
+      "tr": "Parmak izi sensörü",
+      "en": "Fingerprint sensor"
+    },
+    "life": {
+      "tr": "Mekanizma ömrü",
+      "en": "Mechanism life"
+    },
+    "accuracy": {
+      "tr": "Tanıma doğruluğu",
+      "en": "Recognition accuracy"
+    },
+    "keys": {
+      "tr": "Anahtar",
+      "en": "Keys"
+    }
+  },
+  "why": [
+    {
+      "t": {
+        "tr": "Doğrama tecrübesi",
+        "en": "Joinery expertise"
+      },
+      "d": {
+        "tr": "Kapı ve pencere sistemlerini bilen bir ekiple çalışırsınız; kilidi profile ve kapıya göre seçeriz.",
+        "en": "You work with a team that knows door and window systems, and we match the lock to the profile and the door."
+      }
+    },
+    {
+      "t": {
+        "tr": "Hızlı teknik servis",
+        "en": "Fast technical service"
+      },
+      "d": {
+        "tr": "Bölgesel servis ve yedek parça desteğiyle kesintisiz kullanım.",
+        "en": "Regional service and spare parts keep your locks working."
+      }
+    },
+    {
+      "t": {
+        "tr": "Profesyonel montaj",
+        "en": "Professional installation"
+      },
+      "d": {
+        "tr": "Alüminyum, ahşap, çelik ve cam kapılara uygun montaj desteği.",
+        "en": "Installation support for aluminium, timber, steel and glass doors."
+      }
+    },
+    {
+      "t": {
+        "tr": "2 yıl garanti",
+        "en": "2-year warranty"
+      },
+      "d": {
+        "tr": "Birebir değişim ve servis garantisi.",
+        "en": "Covered by replacement and service."
+      }
+    }
+  ],
+  "appFeatures": [
+    {
+      "t": {
+        "tr": "Uzaktan açma",
+        "en": "Remote unlock"
+      },
+      "d": {
+        "tr": "Wi-Fi bağlantılı modellerde kapıyı her yerden açın, kilit durumunu anlık görün.",
+        "en": "On Wi-Fi models, open the door from anywhere and see the lock status live."
+      }
+    },
+    {
+      "t": {
+        "tr": "Misafir şifresi",
+        "en": "Guest PINs"
+      },
+      "d": {
+        "tr": "Süreli veya tek kullanımlık şifre üretin; misafir ve servis için anahtar teslimi gerekmez.",
+        "en": "Create timed or one-off PINs, so guests and service staff need no key handover."
+      }
+    },
+    {
+      "t": {
+        "tr": "Giriş-çıkış kayıtları",
+        "en": "Entry logs"
+      },
+      "d": {
+        "tr": "Kim, hangi yöntemle, ne zaman girdi: tüm geçmiş uygulamada.",
+        "en": "Who came in, how and when: the full history is in the app."
+      }
+    },
+    {
+      "t": {
+        "tr": "Uyarılar ve pil takibi",
+        "en": "Alerts and battery level"
+      },
+      "d": {
+        "tr": "Hatalı deneme, sabotaj ve düşük pil durumunda bildirim alın.",
+        "en": "Get notified of failed attempts, tampering and low battery."
+      }
+    }
+  ],
+  "installSteps": [
+    {
+      "t": {
+        "tr": "Gövdeyi yerleştirin",
+        "en": "Fit the lock body"
+      },
+      "d": {
+        "tr": "Kilit gövdesini kapı profilindeki yuvaya yerleştirip alın vidalarıyla sabitleyin.",
+        "en": "Seat the lock body in the door pocket and fix it with the faceplate screws."
+      }
+    },
+    {
+      "t": {
+        "tr": "Kabloyu geçirin",
+        "en": "Route the cable"
+      },
+      "d": {
+        "tr": "Dış paneli kapıya yaslayın, bağlantı kablosunu kapıdaki delikten iç panele taşıyın.",
+        "en": "Offer up the outside panel and pass the connecting cable through the door to the inside panel."
+      }
+    },
+    {
+      "t": {
+        "tr": "Panelleri takın",
+        "en": "Mount the panels"
+      },
+      "d": {
+        "tr": "Ön ve arka paneli kapının iki yüzüne yerleştirip bağlantı vidalarıyla sıkın.",
+        "en": "Place the front and rear panels on each face of the door and tighten the through-bolts."
+      }
+    },
+    {
+      "t": {
+        "tr": "Pili takın ve tanımlayın",
+        "en": "Power up and enrol"
+      },
+      "d": {
+        "tr": "Pili takın; parmak izi, yüz, kart ve şifre tanımlarını yapıp uygulamayla eşleştirin.",
+        "en": "Insert the battery, enrol fingerprints, faces, cards and PINs, then pair with the app."
+      }
+    }
+  ],
+  "modelNotes": [
+    {
+      "code": "AEZ08",
+      "tr": [
+        "Ahşap kapıda kilit dili ve mil deliklerini açın (35–55 mm kalınlık).",
+        "Kilit dilini yuvaya yerleştirip alın plakasını vidalayın.",
+        "Dış ve iç paneli mil üzerinden birleştirip vidaları sıkın.",
+        "4 AAA pili takın; parmak izi ve şifre tanımlayıp Bluetooth ile eşleştirin."
+      ],
+      "en": [
+        "Bore the latch and spindle holes in the timber door (35–55 mm thick).",
+        "Seat the latch and screw down its faceplate.",
+        "Join the outside and inside panels over the spindle and tighten the screws.",
+        "Insert 4 AAA batteries, enrol fingerprints and PINs, and pair over Bluetooth."
+      ]
+    },
+    {
+      "code": "AEB05",
+      "tr": [
+        "Kilidi cam kapı üzerinde doğru konuma hizalayın.",
+        "Kilit gövdesini ve karşılık parçasını cama yerleştirin.",
+        "Sabitleme vidalarını sıkarak kilidi cama bağlayın.",
+        "4 AA pili takın; parmak izi, şifre ve kartları tanımlayın."
+      ],
+      "en": [
+        "Align the lock in position on the glass door.",
+        "Place the lock body and the strike on the glass.",
+        "Tighten the clamping screws to secure the lock.",
+        "Insert 4 AA batteries and enrol fingerprints, PINs and cards."
+      ]
+    },
+    {
+      "code": "AEN01",
+      "tr": [
+        "Kapıda panel ve kilit kutusu konumlarını işaretleyip delikleri açın.",
+        "Metal kilit kutusunu kapının iç yüzüne vidalayın.",
+        "Paneli dış yüze yerleştirip kabloyu kilit kutusuna bağlayın.",
+        "Pilleri takın, Tuya uygulamasıyla eşleştirip kullanıcıları tanımlayın."
+      ],
+      "en": [
+        "Mark the panel and lock case positions on the door and drill the holes.",
+        "Screw the metal lock case to the inside face of the door.",
+        "Fit the panel outside and connect the cable to the lock case.",
+        "Insert the batteries, pair with the Tuya app and enrol users."
+      ]
+    },
+    {
+      "code": "AES01",
+      "tr": [
+        "Kapı kenarındaki sabitleme vidasını gevşetip mevcut silindiri çıkarın.",
+        "60–90 mm aralığında uygun boydaki akıllı silindiri yuvaya takın.",
+        "Kilit dilinin serbest döndüğünü kontrol edip vidayı sıkın.",
+        "3 AAA pili takın; Tuya Bluetooth ile eşleştirip kullanıcıları tanımlayın."
+      ],
+      "en": [
+        "Loosen the fixing screw on the door edge and remove the existing cylinder.",
+        "Fit the smart cylinder, set to the right length between 60 and 90 mm.",
+        "Check the cam turns freely and tighten the screw.",
+        "Insert 3 AAA batteries, pair over Tuya Bluetooth and enrol users."
+      ]
+    },
+    {
+      "code": "AEC01",
+      "tr": [
+        "Mevcut pencere kolunun vidalarını söküp kolu çıkarın.",
+        "Yeni kolu mekanizmanın miline geçirin.",
+        "Vidaları sıkıp kapağı kapatın.",
+        "4 AA pili takın ve PIN kodunu tanımlayın."
+      ],
+      "en": [
+        "Undo the screws of the existing window handle and remove it.",
+        "Slide the new handle onto the gear spindle.",
+        "Tighten the screws and close the cover.",
+        "Insert 4 AA batteries and set the PIN."
+      ]
+    },
+    {
+      "code": "AEGC01",
+      "tr": [
+        "Dolap kapağında kilit için montaj deliğini açın.",
+        "Kilit gövdesini delikten geçirip iç yüzdeki parçayla birleştirin.",
+        "Somun ve vidalarla kilidi kapağa sabitleyin.",
+        "3 AA pili takın; şifre ve kartları tanımlayın."
+      ],
+      "en": [
+        "Drill the mounting hole in the cabinet door.",
+        "Pass the lock body through and join it to the part on the inside face.",
+        "Secure the lock to the door with the nut and screws.",
+        "Insert 3 AA batteries and enrol PINs and cards."
+      ]
+    }
+  ],
+  "bodies": [
+    {
+      "key": "3585",
+      "title": {
+        "tr": "3585 düz dilli gövde",
+        "en": "3585 latch body"
+      },
+      "models": [
+        "AEL38"
+      ],
+      "dims": {
+        "backset": 35,
+        "depth": 51,
+        "centres": 85,
+        "height": 174
+      }
+    },
+    {
+      "key": "6085",
+      "title": {
+        "tr": "6085 gömme gövde",
+        "en": "6085 mortise body"
+      },
+      "models": [
+        "AER77"
+      ],
+      "dims": {
+        "backset": 60,
+        "depth": 109,
+        "centres": 85,
+        "height": 210,
+        "faceplate": 300,
+        "faceWidth": 28
+      }
+    }
+  ],
+  "bodyTable": [
+    {
+      "body": {
+        "tr": "24/30 standart gövde",
+        "en": "24/30 standard body"
+      },
+      "models": "AER22"
+    },
+    {
+      "body": {
+        "tr": "3585",
+        "en": "3585"
+      },
+      "models": "AEL38 (gövde dahil)",
+      "modelsEn": "AEL38 (body included)"
+    },
+    {
+      "body": {
+        "tr": "6068, 7068, 5072, 5572, 6085, 7085, 6590, 6592",
+        "en": "6068, 7068, 5072, 5572, 6085, 7085, 6590, 6592"
+      },
+      "models": "AER77"
+    },
+    {
+      "body": {
+        "tr": "Otel kilit gövdesi",
+        "en": "Hotel lock body"
+      },
+      "models": "AEJ62"
+    }
+  ],
+  "bodyUse": {
+    "tr": "Kapı kenarındaki yuvaya yerleştirilir, alın plakası vidalarla sabitlenir; panel milleri gövdeye geçirilir.",
+    "en": "The body sits in the pocket on the door edge, the faceplate is screwed down and the panel spindles pass through it."
+  },
+  "accessories": [
+    {
+      "t": {
+        "tr": "Tuya Wi-Fi ağ geçidi",
+        "en": "Tuya Wi-Fi gateway"
+      },
+      "d": {
+        "tr": "Bluetooth modellerin uzaktan yönetimi için (AEZ08, AEN01, AES01).",
+        "en": "For remote management of Bluetooth models (AEZ08, AEN01, AES01)."
+      }
+    },
+    {
+      "t": {
+        "tr": "Otel kart kodlayıcı",
+        "en": "Hotel card encoder"
+      },
+      "d": {
+        "tr": "AEJ17 ve AEJ62 otel kilit sistemleri için kart yazıcı.",
+        "en": "Card writer for the AEJ17 and AEJ62 hotel lock systems."
+      }
+    }
+  ]
+}

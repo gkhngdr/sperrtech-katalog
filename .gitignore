@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+.DS_Store
+# Yalnızca yerelde duran iç notlar
+TEYIT-LISTESI.md
+GORSEL-KAYNAKLARI.md
+data/notlar.json
+data/yedek-sperrtech-esasli/
+video/FLOW-REHBERI.md

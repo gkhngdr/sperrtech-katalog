@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AEGC01 Smart Cabinet Lock · Sperrtech</title><meta name="description" content="A 304 stainless steel cabinet lock that opens by PIN or card.">
+<link rel="alternate" hreflang="en" href="../../en/product/AEGC01.html"><link rel="alternate" hreflang="tr" href="../../tr/urun/AEGC01.html">
+<meta name="theme-color" content="#0E1012">
+<style>@font-face{font-family:'Space Grotesk';font-weight:500;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-ext-500-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Space Grotesk';font-weight:500;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Space Grotesk';font-weight:600;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-ext-600-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Space Grotesk';font-weight:600;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Space Grotesk';font-weight:700;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-ext-700-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Space Grotesk';font-weight:700;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-700-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Sans';font-weight:400;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-ext-400-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Sans';font-weight:400;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Sans';font-weight:500;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-ext-500-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Sans';font-weight:500;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Sans';font-weight:600;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-ext-600-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Sans';font-weight:600;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Mono';font-weight:400;font-display:swap;src:url(../../assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Mono';font-weight:400;font-display:swap;src:url(../../assets/fonts/ibm-plex-mono-latin-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Mono';font-weight:500;font-display:swap;src:url(../../assets/fonts/ibm-plex-mono-latin-ext-500-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Mono';font-weight:500;font-display:swap;src:url(../../assets/fonts/ibm-plex-mono-latin-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}</style>
+<link rel="stylesheet" href="../../assets/site.css">
+</head>
+<body class="product">
+<header class="top" data-top>
+  <a class="brand" href="../../en/index.html" aria-label="Sperrtech"><svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="Sperrtech"><text x="2" y="47" font-size="40" font-family="'Space Grotesk',sans-serif" font-weight="600" textLength="296" lengthAdjust="spacing" fill="currentColor">SPERRTECH</text></svg></a>
+  <nav>
+    <a href="../../en/index.html#urunler">Products</a>
+    <a href="../../en/index.html#karsilastirma">Model comparison</a>
+    <a href="../../en/index.html#uygulama">Mobile app</a>
+    <a href="../../en/index.html#iletisim">Contact</a>
+  </nav>
+  <div class="top-r">
+    <a class="lang" href="../../tr/urun/AEGC01.html" hreflang="tr" lang="tr">TR</a>
+    <a class="btn sm" href="https://wa.me/905387994270?text=Hello%2C%20I%20would%20like%20information%20about%20Sperrtech%20smart%20locks." target="_blank" rel="noopener">Request a quote</a>
+  </div>
+</header>
+
+<main class="pp">
+  <div class="pp-grid">
+    <aside class="pp-stage" data-stage>
+      <div class="stage-in">
+        <div class="hs-wrap" style="--r:calc(1198/1308)" data-stage-img>
+          <img class="pp-img" src="../../assets/images/AEGC01.webp" width="1198" height="1308" alt="AEGC01" fetchpriority="high" style="view-transition-name:p-AEGC01">
+          
+        </div>
+      </div>
+      <div class="stage-f"><span>AEGC01</span><span data-step-out>Window and cabinet</span></div>
+    </aside>
+    <div class="pp-c">
+      <section class="pp-intro">
+        <a class="crumb" href="../index.html#urunler"><svg class="ic flip" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg> All products</a>
+        <p class="kicker" data-in>Window and cabinet locks</p>
+        <h1 data-in><b>AEGC01</b>Smart Cabinet Lock</h1>
+        <p class="hero-p" data-in>A 304 stainless steel cabinet lock that opens by PIN or card.</p>
+        <div class="chips" data-in><span class="chip"><svg class="ic " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6h.01M12 6h.01M18 6h.01M6 12h.01M12 12h.01M18 12h.01M6 18h.01M12 18h.01M18 18h.01"/></svg>PIN</span><span class="chip"><svg class="ic " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18v12H3zM3 10h18M7 15h3"/></svg>Card</span></div>
+        <div class="p-stats" data-in><div><b>304</b><span>stainless steel</span></div><div><b>2</b><span>PIN modes</span></div><div><b>≥ 1<small>mm</small></b><span>door thickness</span></div></div>
+        <div class="hero-a" data-in>
+          <a class="btn" href="https://wa.me/905387994270?text=Hello%2C%20I%20would%20like%20information%20and%20a%20quote%20for%20the%20Sperrtech%20AEGC01." target="_blank" rel="noopener"><svg class="ic " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.4 8.4 0 0 1-12.3 7.4L3 21l2.1-5.7A8.4 8.4 0 1 1 21 11.5z"/></svg> Request a quote</a>
+          <a class="btn ghost" href="../../Sperrtech-Katalog-2026-EN.pdf" download><svg class="ic " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg> PDF</a>
+        </div>
+      </section>
+      <section class="pp-hl">
+        <p class="kicker">Key features</p>
+        <article class="step" data-step="Tiered access"><b class="num">01</b><h2>Tiered access</h2><p>Tiered security management.</p></article><article class="step" data-step="Two PIN modes"><b class="num">02</b><h2>Two PIN modes</h2><p>Switch between a permanent and a one-time PIN.</p></article><article class="step" data-step="Backlit keypad"><b class="num">03</b><h2>Backlit keypad</h2><p>An indicator light flashes while locked.</p></article><article class="step" data-step="Alarms"><b class="num">04</b><h2>Alarms</h2><p>Alarms for wrong PIN, unauthorised card, low voltage and tampering.</p></article><article class="step" data-step="Fits any door"><b class="num">05</b><h2>Fits any door</h2><p>Suits thin or thick doors, with an external backup power input.</p></article>
+      </section>
+      <section class="pp-specs" data-reveal>
+        <p class="kicker">Technical specifications</p>
+        <table class="specs"><tr><th>Unlock methods</th><td>PIN, card</td></tr><tr><th>Features</th><td>Tiered security management; permanent or one-time PIN; backlit keypad; indicator flashes when locked; external backup power</td></tr><tr><th>Security</th><td>Wrong PIN and unauthorised card alarm, low-voltage alarm, anti-tamper alarm</td></tr><tr><th>Material</th><td>304 stainless steel</td></tr><tr><th>Door thickness</th><td>≥ 1 mm (any thin or thick door)</td></tr><tr><th>Power</th><td>3 × AA alkaline batteries</td></tr><tr><th>Current draw</th><td>Standby ≤ 20 µA; operating ≤ 200 mA</td></tr><tr><th>Low-battery alarm</th><td>3.7 ± 0.2 V</td></tr><tr><th>Operating conditions</th><td>−15 °C to +55 °C; 20–95% relative humidity</td></tr></table>
+      </section>
+      <section class="pp-box" data-reveal>
+        
+        
+        <p class="fine">Specifications may vary by model and order. Please check with our sales team for current information.</p>
+      </section>
+    </div>
+  </div>
+  <a class="next" href="AEJ17.html">
+    <span><i>Next model</i><b>AEJ17</b>Hotel Card Lock (31 mm panel)</span>
+    <img class="" src="../../assets/images/AEJ17.webp" width="380" height="747" alt="AEJ17" loading="lazy">
+    <svg class="ic " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+  </a>
+</main>
+<footer class="foot">
+  <div class="foot-in">
+    <div><span class="foot-logo"><svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="Sperrtech"><text x="2" y="47" font-size="40" font-family="'Space Grotesk',sans-serif" font-weight="600" textLength="296" lengthAdjust="spacing" fill="currentColor">SPERRTECH</text></svg></span><p>ÖZGÜR YAPI ALÜMİNYUM İNŞ. HAFR. NAK. TUR. ve TİC. LTD. ŞTİ.</p></div>
+    <p class="foot-note">Specifications may vary by model and order. Please check with our sales team for current information.</p>
+    <p class="foot-c">© 2026 Sperrtech</p>
+  </div>
+</footer>
+<script src="../../assets/vendor/gsap.min.js"></script>
+<script src="../../assets/vendor/ScrollTrigger.min.js"></script>
+<script src="../../assets/site.js"></script>
+</body></html>

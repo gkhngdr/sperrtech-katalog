@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AEC01 Keypad Smart Window Handle · Sperrtech</title><meta name="description" content="A window handle that opens with a PIN, for sliding, top-hung and tilt-and-turn windows.">
+<link rel="alternate" hreflang="en" href="../../en/product/AEC01.html"><link rel="alternate" hreflang="tr" href="../../tr/urun/AEC01.html">
+<meta name="theme-color" content="#0E1012">
+<style>@font-face{font-family:'Space Grotesk';font-weight:500;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-ext-500-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Space Grotesk';font-weight:500;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Space Grotesk';font-weight:600;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-ext-600-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Space Grotesk';font-weight:600;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Space Grotesk';font-weight:700;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-ext-700-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Space Grotesk';font-weight:700;font-display:swap;src:url(../../assets/fonts/space-grotesk-latin-700-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Sans';font-weight:400;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-ext-400-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Sans';font-weight:400;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Sans';font-weight:500;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-ext-500-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Sans';font-weight:500;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Sans';font-weight:600;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-ext-600-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Sans';font-weight:600;font-display:swap;src:url(../../assets/fonts/ibm-plex-sans-latin-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Mono';font-weight:400;font-display:swap;src:url(../../assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Mono';font-weight:400;font-display:swap;src:url(../../assets/fonts/ibm-plex-mono-latin-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'IBM Plex Mono';font-weight:500;font-display:swap;src:url(../../assets/fonts/ibm-plex-mono-latin-ext-500-normal.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'IBM Plex Mono';font-weight:500;font-display:swap;src:url(../../assets/fonts/ibm-plex-mono-latin-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}</style>
+<link rel="stylesheet" href="../../assets/site.css">
+</head>
+<body class="product">
+<header class="top" data-top>
+  <a class="brand" href="../../en/index.html" aria-label="Sperrtech"><svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="Sperrtech"><text x="2" y="47" font-size="40" font-family="'Space Grotesk',sans-serif" font-weight="600" textLength="296" lengthAdjust="spacing" fill="currentColor">SPERRTECH</text></svg></a>
+  <nav>
+    <a href="../../en/index.html#urunler">Products</a>
+    <a href="../../en/index.html#karsilastirma">Model comparison</a>
+    <a href="../../en/index.html#uygulama">Mobile app</a>
+    <a href="../../en/index.html#iletisim">Contact</a>
+  </nav>
+  <div class="top-r">
+    <a class="lang" href="../../tr/urun/AEC01.html" hreflang="tr" lang="tr">TR</a>
+    <a class="btn sm" href="https://wa.me/905387994270?text=Hello%2C%20I%20would%20like%20information%20about%20Sperrtech%20smart%20locks." target="_blank" rel="noopener">Request a quote</a>
+  </div>
+</header>
+
+<main class="pp">
+  <div class="pp-grid">
+    <aside class="pp-stage" data-stage>
+      <div class="stage-in">
+        <div class="hs-wrap" style="--r:calc(628/347)" data-stage-img>
+          <img class="pp-img" src="../../assets/images/AEC01.webp" width="628" height="347" alt="AEC01" fetchpriority="high" style="view-transition-name:p-AEC01">
+          
+        </div>
+      </div>
+      <div class="stage-f"><span>AEC01</span><span data-step-out>Window and cabinet</span></div>
+    </aside>
+    <div class="pp-c">
+      <section class="pp-intro">
+        <a class="crumb" href="../index.html#urunler"><svg class="ic flip" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg> All products</a>
+        <p class="kicker" data-in>Window and cabinet locks</p>
+        <h1 data-in><b>AEC01</b>Keypad Smart Window Handle</h1>
+        <p class="hero-p" data-in>A window handle that opens with a PIN, for sliding, top-hung and tilt-and-turn windows.</p>
+        <div class="chips" data-in><span class="chip"><svg class="ic " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6h.01M12 6h.01M18 6h.01M6 12h.01M12 12h.01M18 12h.01M6 18h.01M12 18h.01M18 18h.01"/></svg>PIN</span></div>
+        <div class="p-stats" data-in><div><b>1</b><span>PIN group</span></div><div><b>3</b><span>colour options</span></div><div><b>4 × AA</b><span>batteries</span></div></div>
+        <div class="hero-a" data-in>
+          <a class="btn" href="https://wa.me/905387994270?text=Hello%2C%20I%20would%20like%20information%20and%20a%20quote%20for%20the%20Sperrtech%20AEC01." target="_blank" rel="noopener"><svg class="ic " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.4 8.4 0 0 1-12.3 7.4L3 21l2.1-5.7A8.4 8.4 0 1 1 21 11.5z"/></svg> Request a quote</a>
+          <a class="btn ghost" href="../../Sperrtech-Katalog-2026-EN.pdf" download><svg class="ic " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg> PDF</a>
+        </div>
+      </section>
+      <section class="pp-hl">
+        <p class="kicker">Key features</p>
+        <article class="step" data-step="Opens with a PIN"><b class="num">01</b><h2>Opens with a PIN</h2><p>The handle only opens once the PIN is entered.</p></article><article class="step" data-step="Decoy PIN"><b class="num">02</b><h2>Decoy PIN</h2><p>Decoy PIN support against onlookers.</p></article><article class="step" data-step="Emergency opening"><b class="num">03</b><h2>Emergency opening</h2><p>Opens by undoing the screws on the side of the handle.</p></article><article class="step" data-step="Three colours"><b class="num">04</b><h2>Three colours</h2><p>Black, silver and grey.</p></article>
+      </section>
+      <section class="pp-specs" data-reveal>
+        <p class="kicker">Technical specifications</p>
+        <table class="specs"><tr><th>Unlock methods</th><td>PIN, decoy PIN, emergency opening (by undoing the screws on the side of the handle)</td></tr><tr><th>Capacity</th><td>1 PIN group</td></tr><tr><th>Material</th><td>Aluminium alloy + zinc alloy</td></tr><tr><th>Power</th><td>4 × AA dry-cell batteries</td></tr><tr><th>Suitable windows</th><td>Sliding doors and windows, windows with integrated screens, top-hung windows, inward-opening and tilt-and-turn windows</td></tr><tr><th>Colour options</th><td>Black, silver, grey</td></tr></table>
+      </section>
+      <section class="pp-box" data-reveal>
+        
+        <p class="kicker">Colour options</p><div class="chips"><span class="chip">Black</span><span class="chip">Silver</span><span class="chip">Grey</span></div>
+        <p class="fine">Specifications may vary by model and order. Please check with our sales team for current information.</p>
+      </section>
+    </div>
+  </div>
+  <a class="next" href="AEGC01.html">
+    <span><i>Next model</i><b>AEGC01</b>Smart Cabinet Lock</span>
+    <img class="" src="../../assets/images/AEGC01.webp" width="1198" height="1308" alt="AEGC01" loading="lazy">
+    <svg class="ic " viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+  </a>
+</main>
+<footer class="foot">
+  <div class="foot-in">
+    <div><span class="foot-logo"><svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="Sperrtech"><text x="2" y="47" font-size="40" font-family="'Space Grotesk',sans-serif" font-weight="600" textLength="296" lengthAdjust="spacing" fill="currentColor">SPERRTECH</text></svg></span><p>ÖZGÜR YAPI ALÜMİNYUM İNŞ. HAFR. NAK. TUR. ve TİC. LTD. ŞTİ.</p></div>
+    <p class="foot-note">Specifications may vary by model and order. Please check with our sales team for current information.</p>
+    <p class="foot-c">© 2026 Sperrtech</p>
+  </div>
+</footer>
+<script src="../../assets/vendor/gsap.min.js"></script>
+<script src="../../assets/vendor/ScrollTrigger.min.js"></script>
+<script src="../../assets/site.js"></script>
+</body></html>

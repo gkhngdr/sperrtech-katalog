@@ -1,0 +1,22 @@
+{
+  "name": "sperrtech-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "render": "remotion render src/index.jsx AER22-TR out/Sperrtech-AER22-Reels-TR.mp4 --codec h264 --crf 18",
+    "studio": "remotion studio src/index.jsx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": "true",
+  "dependencies": {
+    "@remotion/cli": "^4.0.546",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.546"
+  }
+}

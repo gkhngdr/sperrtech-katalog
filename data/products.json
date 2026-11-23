@@ -1,0 +1,1821 @@
+[
+  {
+    "code": "AER22",
+    "group": "face",
+    "featured": true,
+    "name": {
+      "tr": "Görüntülü Yüz Tanımalı Akıllı Kilit",
+      "en": "Face Recognition Smart Lock with Video"
+    },
+    "tagline": {
+      "tr": "3D yüz tanıma, 4,5 inç ekran, 2 MP kamera ve tam otomatik kilitleme tek gövdede.",
+      "en": "3D face recognition, a 4.5-inch screen, a 2 MP camera and fully automatic locking in one body."
+    },
+    "unlock": [
+      "face",
+      "fingerprint",
+      "pin",
+      "card",
+      "key",
+      "app"
+    ],
+    "conn": "wifi",
+    "app": "Tuya",
+    "tempPin": true,
+    "body": "24/30",
+    "doorTypes": [
+      "steel",
+      "wood",
+      "aluminium"
+    ],
+    "stats": [
+      {
+        "v": "4,5″",
+        "tr": "ekran",
+        "en": "screen",
+        "en_v": "4.5″"
+      },
+      {
+        "v": "2 MP",
+        "tr": "kamera",
+        "en": "camera"
+      },
+      {
+        "v": "40–120",
+        "tr": "kapı kalınlığı",
+        "en": "door thickness",
+        "u": "mm"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "Temassız giriş",
+          "en": "Hands-free entry"
+        },
+        "d": {
+          "tr": "3D yüz tanıma ile kapıya dokunmadan geçiş.",
+          "en": "3D face recognition lets you enter without touching the door."
+        }
+      },
+      {
+        "t": {
+          "tr": "Ekran ve kamera",
+          "en": "Screen and camera"
+        },
+        "d": {
+          "tr": "4,5 inç ekran ve 2 MP kamera.",
+          "en": "A 4.5-inch screen and a 2 MP camera."
+        }
+      },
+      {
+        "t": {
+          "tr": "Zil fotoğrafı ve gece görüşü",
+          "en": "Doorbell snapshot and night vision"
+        },
+        "d": {
+          "tr": "Zile basıldığında fotoğraf çeker; kızılötesi aydınlatma karanlıkta görüntü sağlar.",
+          "en": "Takes a snapshot when the bell is pressed; infrared fill light gives an image in the dark."
+        }
+      },
+      {
+        "t": {
+          "tr": "Uzaktan açma ve ses değiştirme",
+          "en": "Remote unlock and voice changer"
+        },
+        "d": {
+          "tr": "Kapıyı uygulamadan açın; ses değiştirme özelliği vardır.",
+          "en": "Unlock from the app; includes a voice changer."
+        }
+      },
+      {
+        "t": {
+          "tr": "Tam otomatik kilitleme",
+          "en": "Fully automatic locking"
+        },
+        "d": {
+          "tr": "Zorlama alarmı, deneme-yanılma uyarısı ve giriş-çıkış kayıtları.",
+          "en": "With anti-pry alarm, trial-and-error warning and entry and exit records."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "3D yüz tanıma, parmak izi, şifre, kart, mekanik anahtar, uygulama (Tuya Wi-Fi)",
+        "en": "3D face, fingerprint, PIN, card, mechanical key, app (Tuya Wi-Fi)"
+      },
+      {
+        "k": "tempPin",
+        "tr": "Süreli şifre ve sahte (anti-peep) şifre",
+        "en": "Time-limited PIN and anti-peep decoy PIN"
+      },
+      {
+        "k": "camera",
+        "tr": "2 MP kamera, 4,5 inç ekran",
+        "en": "2 MP camera, 4.5-inch screen"
+      },
+      {
+        "k": "features",
+        "tr": "Uzaktan açma, zil fotoğrafı, ses değiştirme, kızılötesi aydınlatma",
+        "en": "Remote unlock, doorbell snapshot, voice changer, infrared fill light"
+      },
+      {
+        "k": "security",
+        "tr": "Tam otomatik kilitleme, zorlama alarmı, deneme-yanılma uyarısı, kilit durumu sorgulama, giriş-çıkış kayıtları, düşük pil uyarısı",
+        "en": "Fully automatic locking, anti-pry alarm, trial-and-error warning, lock status check, entry and exit records, low-battery reminder"
+      },
+      {
+        "k": "material",
+        "tr": "Alüminyum alaşım",
+        "en": "Aluminium alloy"
+      },
+      {
+        "k": "doorThickness",
+        "tr": "40–120 mm",
+        "en": "40–120 mm"
+      },
+      {
+        "k": "power",
+        "tr": "Lityum batarya, USB acil şarj",
+        "en": "Lithium battery, USB emergency charging"
+      },
+      {
+        "k": "language",
+        "tr": "Çince ve İngilizce; 8 dil seçeneği",
+        "en": "Chinese and English; eight-language option"
+      },
+      {
+        "k": "lockBody",
+        "tr": "24/30 standart kilit gövdeleriyle uyumlu; gövde ayrı temin edilir",
+        "en": "Compatible with 24/30 standard lock bodies; body supplied separately"
+      },
+      {
+        "k": "options",
+        "tr": "Avuç içi damar tanıma, parmak damarı tanıma, TTLock uygulaması",
+        "en": "Palm vein recognition, finger vein recognition, TTLock app"
+      }
+    ],
+    "box": null,
+    "hotspots": [
+      {
+        "x": 22,
+        "y": 6,
+        "tr": "Kamera ve 3D yüz sensörü",
+        "en": "Camera and 3D face sensor"
+      },
+      {
+        "x": 22,
+        "y": 30,
+        "tr": "Dokunmatik tuş takımı",
+        "en": "Touch keypad"
+      },
+      {
+        "x": 17,
+        "y": 63,
+        "tr": "Parmak izi okuyuculu kol",
+        "en": "Handle with fingerprint reader"
+      },
+      {
+        "x": 72,
+        "y": 12,
+        "tr": "4,5 inç ekran",
+        "en": "4.5-inch screen"
+      },
+      {
+        "x": 77,
+        "y": 81,
+        "tr": "İç kilitleme mandalı",
+        "en": "Inside thumb-turn"
+      }
+    ],
+    "short": {
+      "power": {
+        "tr": "Lityum batarya",
+        "en": "Lithium battery"
+      },
+      "ip": ""
+    }
+  },
+  {
+    "code": "AER77",
+    "group": "face",
+    "featured": true,
+    "name": {
+      "tr": "Görüntülü İnterkomlu Yüz Tanımalı Akıllı Kilit",
+      "en": "Face Recognition Smart Lock with Video Intercom"
+    },
+    "tagline": {
+      "tr": "Yağmura ve neme açık ana girişler için: ön ve arka paneli IP66 korumalı, görüntülü interkomlu giriş kilidi.",
+      "en": "Built for exposed main entrances: an entry lock with video intercom and IP66 protection on both panels."
+    },
+    "unlock": [
+      "face",
+      "fingerprint",
+      "pin",
+      "card",
+      "key",
+      "app"
+    ],
+    "conn": "wifi",
+    "app": "Tuya",
+    "tempPin": true,
+    "body": "6085",
+    "doorTypes": [
+      "steel",
+      "wood",
+      "aluminium"
+    ],
+    "stats": [
+      {
+        "v": "IP66",
+        "tr": "ön ve arka panel",
+        "en": "front and rear panels"
+      },
+      {
+        "v": "4200",
+        "u": "mAh",
+        "tr": "lityum-iyon batarya",
+        "en": "Li-ion battery"
+      },
+      {
+        "v": "500",
+        "tr": "kullanıcı",
+        "en": "users"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "IP66 su geçirmezlik",
+          "en": "IP66 waterproof rating"
+        },
+        "d": {
+          "tr": "Ön ve arka panelin ikisi de IP66 korumalıdır.",
+          "en": "Both the front and rear panels are rated IP66."
+        }
+      },
+      {
+        "t": {
+          "tr": "Yüz tanıma ve yarı iletken parmak izi",
+          "en": "Face recognition and semiconductor fingerprint"
+        },
+        "d": {
+          "tr": "Yüz tanıma ve yarı iletken parmak izi sensörüyle biyometrik giriş.",
+          "en": "Biometric entry by face recognition and a semiconductor fingerprint sensor."
+        }
+      },
+      {
+        "t": {
+          "tr": "Görüntülü interkom",
+          "en": "Video intercom"
+        },
+        "d": {
+          "tr": "HD kamera, elektronik zil ve uygulamadan uzaktan açma.",
+          "en": "HD camera, electronic doorbell and remote unlocking from the app."
+        }
+      },
+      {
+        "t": {
+          "tr": "Sessiz ve güçlü motor",
+          "en": "Quiet, high-torque motor"
+        },
+        "d": {
+          "tr": "Otomatik açma ve kilitleme, tam sesli yönlendirme.",
+          "en": "Automatic unlocking and locking with full voice prompts."
+        }
+      },
+      {
+        "t": {
+          "tr": "Çok katmanlı güvenlik",
+          "en": "Layered security"
+        },
+        "d": {
+          "tr": "Sahte şifre, güvenlik alarmları ve renkli ortam aydınlatması.",
+          "en": "Decoy PIN, security alarms and coloured ambient lighting."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Yüz tanıma, parmak izi, şifre, kart, mekanik anahtar, Tuya uygulaması, interkom, uzaktan açma, uygulamadan geçici şifre",
+        "en": "Face recognition, fingerprint, PIN, card, mechanical key, Tuya app, intercom, remote unlock, temporary PIN via app"
+      },
+      {
+        "k": "capacity",
+        "tr": "10 yönetici, 500 kullanıcı",
+        "en": "10 administrators, 500 users"
+      },
+      {
+        "k": "features",
+        "tr": "Görüntülü interkom, elektronik zil, HD kamera, otomatik açma ve kilitleme, yarı iletken parmak izi sensörü, yüksek torklu sessiz motor, tam sesli yönlendirme, renkli ortam aydınlatması",
+        "en": "Video intercom, electronic doorbell, HD camera, automatic unlocking and locking, semiconductor fingerprint sensor, high-torque silent motor, full voice prompts, coloured ambient lighting"
+      },
+      {
+        "k": "material",
+        "tr": "Alüminyum alaşım",
+        "en": "Aluminium alloy"
+      },
+      {
+        "k": "doorThickness",
+        "tr": "50–100 mm",
+        "en": "50–100 mm"
+      },
+      {
+        "k": "power",
+        "tr": "4200 mAh lityum-iyon batarya, acil şarj",
+        "en": "4200 mAh Li-ion battery, emergency charging"
+      },
+      {
+        "k": "protection",
+        "tr": "IP66 (ön ve arka panel)",
+        "en": "IP66 (front and rear panels)"
+      },
+      {
+        "k": "durability",
+        "tr": "−30 °C ile 100 °C; 120 saat tuz püskürtme testi",
+        "en": "−30 °C to 100 °C; 120-hour salt spray test"
+      },
+      {
+        "k": "lockBody",
+        "tr": "6068, 7068, 5072, 5572, 6085, 7085, 6590, 6592",
+        "en": "6068, 7068, 5072, 5572, 6085, 7085, 6590, 6592"
+      },
+      {
+        "k": "colors",
+        "tr": "Mat siyah, mat gri, gümüş, antik bronz",
+        "en": "Matte black, matte grey, silver, antique bronze"
+      },
+      {
+        "k": "options",
+        "tr": "Uzaktan kumanda",
+        "en": "Remote control"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "4200 mAh Li-ion",
+        "en": "4200 mAh Li-ion"
+      },
+      "ip": "IP66"
+    },
+    "colors": {
+      "tr": [
+        "Mat siyah",
+        "Mat gri",
+        "Gümüş",
+        "Antik bronz"
+      ],
+      "en": [
+        "Matte black",
+        "Matte grey",
+        "Silver",
+        "Antique bronze"
+      ]
+    }
+  },
+  {
+    "code": "AEL30",
+    "group": "face",
+    "name": {
+      "tr": "Yüz Tanımalı Alüminyum Kapı Kilidi",
+      "en": "Face Recognition Lock for Aluminium Doors"
+    },
+    "tagline": {
+      "tr": "Isı yalıtımlı alüminyum kapılar için yüz tanımalı, ön ve arka paneli IP68 korumalı kilit.",
+      "en": "A face recognition lock for thermally broken aluminium doors, with IP68 protection on both panels."
+    },
+    "unlock": [
+      "face",
+      "fingerprint",
+      "pin",
+      "card",
+      "key",
+      "app"
+    ],
+    "conn": "wifi",
+    "app": "Tuya",
+    "tempPin": true,
+    "body": null,
+    "doorTypes": [
+      "aluminium",
+      "glassFramed",
+      "sliding"
+    ],
+    "colors": {
+      "tr": [
+        "Siyah",
+        "Antik kırmızı",
+        "Gri",
+        "Gümüş"
+      ],
+      "en": [
+        "Black",
+        "Antique red",
+        "Grey",
+        "Silver"
+      ]
+    },
+    "stats": [
+      {
+        "v": "IP68",
+        "tr": "su ve toz koruması",
+        "en": "water and dust protection"
+      },
+      {
+        "v": "3200",
+        "u": "mAh",
+        "tr": "lityum batarya",
+        "en": "lithium battery"
+      },
+      {
+        "v": "300",
+        "tr": "kullanıcı",
+        "en": "users"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "Yüz tanıma ve parmak izi",
+          "en": "Face recognition and fingerprint"
+        },
+        "d": {
+          "tr": "Yüz tanıma ve yarı iletken parmak izi sensörü.",
+          "en": "Face recognition and a semiconductor fingerprint sensor."
+        }
+      },
+      {
+        "t": {
+          "tr": "IP68 su geçirmezlik",
+          "en": "IP68 waterproof rating"
+        },
+        "d": {
+          "tr": "Ön ve arka panel su geçirmezdir.",
+          "en": "Both the front and rear panels are waterproof."
+        }
+      },
+      {
+        "t": {
+          "tr": "Uzaktan yönetim",
+          "en": "Remote management"
+        },
+        "d": {
+          "tr": "Tuya uygulamasıyla uzaktan açma ve geçici şifre; TTLock opsiyoneldir.",
+          "en": "Remote unlocking and temporary PINs with the Tuya app; TTLock is optional."
+        }
+      },
+      {
+        "t": {
+          "tr": "C sınıfı silindir",
+          "en": "Class C cylinder"
+        },
+        "d": {
+          "tr": "C sınıfı güvenlik silindiri ve iki yedek anahtar.",
+          "en": "A Class C security cylinder with two spare keys."
+        }
+      },
+      {
+        "t": {
+          "tr": "Dört renk",
+          "en": "Four colours"
+        },
+        "d": {
+          "tr": "Siyah, antik kırmızı, gri ve gümüş.",
+          "en": "Black, antique red, grey and silver."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Yüz tanıma, parmak izi, şifre, kart, geçici şifre, mekanik anahtar, uzaktan açma, Tuya uygulaması (TTLock opsiyonel)",
+        "en": "Face recognition, fingerprint, PIN, card, temporary PIN, mechanical key, remote unlock, Tuya app (TTLock optional)"
+      },
+      {
+        "k": "capacity",
+        "tr": "300 kullanıcı",
+        "en": "300 users"
+      },
+      {
+        "k": "sensor",
+        "tr": "Yarı iletken",
+        "en": "Semiconductor"
+      },
+      {
+        "k": "material",
+        "tr": "Alüminyum alaşım",
+        "en": "Aluminium alloy"
+      },
+      {
+        "k": "power",
+        "tr": "3200 mAh lityum batarya, Type-C acil şarj",
+        "en": "3200 mAh lithium battery, Type-C emergency charging"
+      },
+      {
+        "k": "cylinder",
+        "tr": "C sınıfı güvenlik silindiri, 2 yedek anahtar",
+        "en": "Class C security cylinder, 2 spare keys"
+      },
+      {
+        "k": "protection",
+        "tr": "IP68 (ön ve arka panel su geçirmez)",
+        "en": "IP68 (waterproof front and rear panels)"
+      },
+      {
+        "k": "conditions",
+        "tr": "−20 °C ile 60 °C; %20–93 bağıl nem",
+        "en": "−20 °C to 60 °C; 20–93% relative humidity"
+      },
+      {
+        "k": "language",
+        "tr": "Çok dilli",
+        "en": "Multilingual"
+      },
+      {
+        "k": "colors",
+        "tr": "Siyah, antik kırmızı, gri, gümüş",
+        "en": "Black, antique red, grey, silver"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "3200 mAh lityum",
+        "en": "3200 mAh lithium"
+      },
+      "ip": "IP68"
+    }
+  },
+  {
+    "code": "AEL38",
+    "group": "finger",
+    "name": {
+      "tr": "Parmak İzli Alüminyum Kapı Kilidi",
+      "en": "Fingerprint Lock for Aluminium Doors"
+    },
+    "tagline": {
+      "tr": "Isı yalıtımlı alüminyum kapılar için IP68 korumalı parmak izli kilit; 3585 kilit gövdesiyle birlikte gelir.",
+      "en": "An IP68-rated fingerprint lock for thermally broken aluminium doors, supplied with the 3585 lock body."
+    },
+    "unlock": [
+      "fingerprint",
+      "pin",
+      "card",
+      "key",
+      "app"
+    ],
+    "conn": "wifi",
+    "app": "Tuya",
+    "tempPin": true,
+    "body": "3585",
+    "doorTypes": [
+      "aluminium",
+      "pvc",
+      "glassFramed",
+      "sliding"
+    ],
+    "stats": [
+      {
+        "v": "IP68",
+        "tr": "su ve toz koruması",
+        "en": "water and dust protection"
+      },
+      {
+        "v": "300",
+        "tr": "kullanıcı",
+        "en": "users"
+      },
+      {
+        "v": "−20…70",
+        "u": "°C",
+        "tr": "çalışma sıcaklığı",
+        "en": "operating range"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "IP68 koruma",
+          "en": "IP68 protection"
+        },
+        "d": {
+          "tr": "Hava ve su geçirmez yapı.",
+          "en": "Airtight and waterproof construction."
+        }
+      },
+      {
+        "t": {
+          "tr": "Beş açma yöntemi",
+          "en": "Five ways to open"
+        },
+        "d": {
+          "tr": "Parmak izi, şifre, IC kart, mekanik anahtar ve Tuya Wi-Fi.",
+          "en": "Fingerprint, PIN, IC card, mechanical key and Tuya Wi-Fi."
+        }
+      },
+      {
+        "t": {
+          "tr": "Geçici şifre",
+          "en": "Temporary PIN"
+        },
+        "d": {
+          "tr": "Misafirler için geçici şifre desteği.",
+          "en": "Temporary PIN support for visitors."
+        }
+      },
+      {
+        "t": {
+          "tr": "Geniş çalışma aralığı",
+          "en": "Wide operating range"
+        },
+        "d": {
+          "tr": "−20 °C ile 70 °C arasında çalışır.",
+          "en": "Operates from −20 °C to 70 °C."
+        }
+      },
+      {
+        "t": {
+          "tr": "Gövde dahil",
+          "en": "Lock body included"
+        },
+        "d": {
+          "tr": "3585 kilit gövdesiyle birlikte teslim edilir.",
+          "en": "Supplied with the 3585 lock body."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Parmak izi, şifre, geçici şifre, IC kart, mekanik anahtar, Tuya Wi-Fi",
+        "en": "Fingerprint, PIN, temporary PIN, IC card, mechanical key, Tuya Wi-Fi"
+      },
+      {
+        "k": "capacity",
+        "tr": "300 kullanıcı",
+        "en": "300 users"
+      },
+      {
+        "k": "material",
+        "tr": "Alüminyum alaşım",
+        "en": "Aluminium alloy"
+      },
+      {
+        "k": "power",
+        "tr": "4 × AAA pil",
+        "en": "4 × AAA batteries"
+      },
+      {
+        "k": "temp",
+        "tr": "−20 °C ile 70 °C",
+        "en": "−20 °C to 70 °C"
+      },
+      {
+        "k": "protection",
+        "tr": "IP68 (hava ve su geçirmez yapı)",
+        "en": "IP68 (airtight and waterproof construction)"
+      },
+      {
+        "k": "language",
+        "tr": "İngilizce, Rusça, Arapça, Endonezce, Tayca",
+        "en": "English, Russian, Arabic, Indonesian, Thai"
+      },
+      {
+        "k": "lockBody",
+        "tr": "3585 kilit gövdesi dahil",
+        "en": "3585 lock body included"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "4 × AAA",
+        "en": "4 × AAA"
+      },
+      "ip": "IP68"
+    }
+  },
+  {
+    "code": "AEZ08",
+    "group": "finger",
+    "name": {
+      "tr": "Ahşap Kapı Parmak İzli Kol Kilidi",
+      "en": "Fingerprint Handle Lock for Timber Doors"
+    },
+    "tagline": {
+      "tr": "Ahşap kapılar için çinko alaşım gövdeli, parmak izli kol kilidi.",
+      "en": "A zinc alloy fingerprint handle lock for timber doors."
+    },
+    "unlock": [
+      "fingerprint",
+      "pin",
+      "card",
+      "key",
+      "app"
+    ],
+    "conn": "bluetooth",
+    "app": "Tuya / TTLock",
+    "tempPin": false,
+    "body": null,
+    "doorTypes": [
+      "wood"
+    ],
+    "colors": {
+      "tr": [
+        "Siyah",
+        "Füme",
+        "Altın",
+        "Gümüş"
+      ],
+      "en": [
+        "Black",
+        "Gunmetal",
+        "Gold",
+        "Silver"
+      ]
+    },
+    "stats": [
+      {
+        "v": "100.000",
+        "tr": "çevrim ömrü",
+        "en": "cycle life",
+        "en_v": "100,000"
+      },
+      {
+        "v": "1+",
+        "tr": "pil ömrü",
+        "en": "battery life",
+        "u": "yıl",
+        "en_u": "yr"
+      },
+      {
+        "v": "100",
+        "tr": "parmak izi",
+        "en": "fingerprints"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "Yoğun kullanıma dayanıklı",
+          "en": "Built for heavy use"
+        },
+        "d": {
+          "tr": "Çinko alaşım gövde, 100.000 çevrim mekanizma ömrü.",
+          "en": "Zinc alloy body with a 100,000-cycle mechanism."
+        }
+      },
+      {
+        "t": {
+          "tr": "Uzun pil ömrü",
+          "en": "Long battery life"
+        },
+        "d": {
+          "tr": "Bekleme akımı 50 µA altında; pil ömrü bir yılı aşabilir. Type-C acil güç girişi vardır.",
+          "en": "Standby current is under 50 µA, so battery life can exceed a year. Type-C emergency power input."
+        }
+      },
+      {
+        "t": {
+          "tr": "Tuya veya TTLock",
+          "en": "Tuya or TTLock"
+        },
+        "d": {
+          "tr": "Bluetooth üzerinden Tuya ya da TTLock uygulamasıyla açılır.",
+          "en": "Opens over Bluetooth with the Tuya or TTLock app."
+        }
+      },
+      {
+        "t": {
+          "tr": "Yüksek tanıma doğruluğu",
+          "en": "High recognition accuracy"
+        },
+        "d": {
+          "tr": "Hatalı kabul oranı %0,001, hatalı ret oranı %0,1 altında.",
+          "en": "False acceptance below 0.001% and false rejection below 0.1%."
+        }
+      },
+      {
+        "t": {
+          "tr": "Geniş kapasite",
+          "en": "Generous capacity"
+        },
+        "d": {
+          "tr": "100 parmak izi, 100 kart ve 100 şifre.",
+          "en": "100 fingerprints, 100 cards and 100 PINs."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Parmak izi, şifre, kart, mekanik anahtar, uygulama (Tuya veya TTLock, Bluetooth)",
+        "en": "Fingerprint, PIN, card, mechanical key, app (Tuya or TTLock, Bluetooth)"
+      },
+      {
+        "k": "capacity",
+        "tr": "100 parmak izi, 100 kart, 100 şifre (6–12 hane)",
+        "en": "100 fingerprints, 100 cards, 100 PINs (6–12 digits)"
+      },
+      {
+        "k": "accuracy",
+        "tr": "Hatalı kabul < %0,001; hatalı ret < %0,1",
+        "en": "False acceptance < 0.001%; false rejection < 0.1%"
+      },
+      {
+        "k": "material",
+        "tr": "Çinko alaşım",
+        "en": "Zinc alloy"
+      },
+      {
+        "k": "doors",
+        "tr": "Ahşap kapı",
+        "en": "Timber door"
+      },
+      {
+        "k": "doorThickness",
+        "tr": "35–55 mm (55–80 mm için ek aksesuar)",
+        "en": "35–55 mm (55–80 mm with additional accessories)"
+      },
+      {
+        "k": "life",
+        "tr": "100.000 çevrim",
+        "en": "100,000 cycles"
+      },
+      {
+        "k": "keys",
+        "tr": "2 adet",
+        "en": "2"
+      },
+      {
+        "k": "power",
+        "tr": "4 × AAA pil, Type-C USB acil güç",
+        "en": "4 × AAA batteries, Type-C USB emergency power"
+      },
+      {
+        "k": "current",
+        "tr": "Bekleme < 50 µA; çalışma < 200 mA",
+        "en": "Standby < 50 µA; operating < 200 mA"
+      },
+      {
+        "k": "conditions",
+        "tr": "−25 °C ile 45 °C; %20–93 bağıl nem",
+        "en": "−25 °C to 45 °C; 20–93% relative humidity"
+      },
+      {
+        "k": "colors",
+        "tr": "Siyah, füme, altın, gümüş",
+        "en": "Black, gunmetal, gold, silver"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "4 × AAA",
+        "en": "4 × AAA"
+      },
+      "ip": ""
+    }
+  },
+  {
+    "code": "AEB05",
+    "group": "finger",
+    "name": {
+      "tr": "Cam Kapı Akıllı Kilidi",
+      "en": "Smart Lock for Glass Doors"
+    },
+    "tagline": {
+      "tr": "Cam kapılar için parmak izli akıllı kilit: alüminyum alaşım gövde ve C sınıfı silindir.",
+      "en": "A fingerprint smart lock for glass doors, with an aluminium alloy body and a Class C cylinder."
+    },
+    "unlock": [
+      "fingerprint",
+      "pin",
+      "card",
+      "key",
+      "app"
+    ],
+    "conn": "app",
+    "app": "Tuya",
+    "tempPin": true,
+    "body": null,
+    "doorTypes": [
+      "glass"
+    ],
+    "stats": [
+      {
+        "v": "C",
+        "tr": "sınıfı silindir",
+        "en": "class cylinder"
+      },
+      {
+        "v": "100",
+        "tr": "şifre",
+        "en": "PINs"
+      },
+      {
+        "v": "4 × AA",
+        "tr": "pil",
+        "en": "batteries"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "Beş açma yöntemi",
+          "en": "Five ways to open"
+        },
+        "d": {
+          "tr": "Parmak izi, şifre, IC kart, mekanik anahtar ve mobil uygulama.",
+          "en": "Fingerprint, PIN, IC card, mechanical key and mobile app."
+        }
+      },
+      {
+        "t": {
+          "tr": "Geçici şifre",
+          "en": "Temporary PIN"
+        },
+        "d": {
+          "tr": "Tuya uygulamasıyla geçici şifre; TTLock opsiyoneldir.",
+          "en": "Temporary PINs with the Tuya app; TTLock is optional."
+        }
+      },
+      {
+        "t": {
+          "tr": "C sınıfı silindir",
+          "en": "Class C cylinder"
+        },
+        "d": {
+          "tr": "Mekanik açma için C sınıfı kilit silindiri.",
+          "en": "A Class C lock cylinder for mechanical opening."
+        }
+      },
+      {
+        "t": {
+          "tr": "Dokulu yüzey",
+          "en": "Textured finish"
+        },
+        "d": {
+          "tr": "Elektroforez kaplamalı, dokulu alüminyum alaşım ve ABS gövde.",
+          "en": "An aluminium alloy and ABS body with an electrophoretic, textured finish."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Parmak izi, şifre, mekanik anahtar, IC kart, geçici şifre, mobil uygulama (Tuya; TTLock opsiyonel)",
+        "en": "Fingerprint, PIN, mechanical key, IC card, temporary PIN, mobile app (Tuya; TTLock optional)"
+      },
+      {
+        "k": "capacity",
+        "tr": "100 şifre",
+        "en": "100 PINs"
+      },
+      {
+        "k": "material",
+        "tr": "Alüminyum alaşım + ABS",
+        "en": "Aluminium alloy + ABS"
+      },
+      {
+        "k": "finish",
+        "tr": "Elektroforez + dokulu kaplama",
+        "en": "Electrophoresis + textured finish"
+      },
+      {
+        "k": "cylinder",
+        "tr": "C sınıfı",
+        "en": "Class C"
+      },
+      {
+        "k": "power",
+        "tr": "4 × AA pil",
+        "en": "4 × AA batteries"
+      },
+      {
+        "k": "colors",
+        "tr": "Siyah",
+        "en": "Black"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "4 × AA",
+        "en": "4 × AA"
+      },
+      "ip": ""
+    },
+    "colors": {
+      "tr": [
+        "Siyah"
+      ],
+      "en": [
+        "Black"
+      ]
+    }
+  },
+  {
+    "code": "AEN01",
+    "group": "finger",
+    "name": {
+      "tr": "Yüzeye Monte Akıllı Kapı Kilidi",
+      "en": "Surface-Mounted Smart Rim Lock"
+    },
+    "tagline": {
+      "tr": "40–90 mm kapılar için yüzeye monte, parmak izli ve şifreli kilit.",
+      "en": "A surface-mounted fingerprint and keypad lock for 40–90 mm doors."
+    },
+    "unlock": [
+      "fingerprint",
+      "pin",
+      "card",
+      "key",
+      "app"
+    ],
+    "conn": "bluetooth",
+    "app": "Tuya",
+    "tempPin": true,
+    "body": null,
+    "doorTypes": [
+      "steel",
+      "wood",
+      "gate"
+    ],
+    "stats": [
+      {
+        "v": "40–90",
+        "tr": "kapı kalınlığı",
+        "en": "door thickness",
+        "u": "mm"
+      },
+      {
+        "v": "5",
+        "tr": "açma yöntemi",
+        "en": "ways to open"
+      },
+      {
+        "v": "Type-C",
+        "tr": "acil şarj",
+        "en": "emergency charging"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "Beş açma yöntemi",
+          "en": "Five ways to open"
+        },
+        "d": {
+          "tr": "Şifre, parmak izi, kart, mekanik anahtar ve Tuya Bluetooth uygulaması.",
+          "en": "PIN, fingerprint, card, mechanical key and the Tuya Bluetooth app."
+        }
+      },
+      {
+        "t": {
+          "tr": "Geçici ve sahte şifre",
+          "en": "Temporary and decoy PINs"
+        },
+        "d": {
+          "tr": "Misafirler için geçici şifre; izlenmeye karşı sahte şifre.",
+          "en": "Temporary PINs for visitors and a decoy PIN against onlookers."
+        }
+      },
+      {
+        "t": {
+          "tr": "Kurcalama alarmı",
+          "en": "Anti-tamper alarm"
+        },
+        "d": {
+          "tr": "Kurcalama alarmı ve elektronik saldırılara karşı koruma (anti-hacking).",
+          "en": "Anti-tamper alarm and an anti-hacking device."
+        }
+      },
+      {
+        "t": {
+          "tr": "Acil şarj",
+          "en": "Emergency charging"
+        },
+        "d": {
+          "tr": "Type-C acil şarj girişi ve düşük pil uyarısı.",
+          "en": "Type-C emergency charging and a low-battery reminder."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Şifre, parmak izi, kart, mekanik anahtar, uygulama (Tuya Bluetooth)",
+        "en": "PIN, fingerprint, card, mechanical key, app (Tuya Bluetooth)"
+      },
+      {
+        "k": "tempPin",
+        "tr": "Geçici şifre ve sahte şifre",
+        "en": "Temporary PIN and decoy PIN"
+      },
+      {
+        "k": "security",
+        "tr": "Düşük pil uyarısı, kurcalama alarmı, elektronik saldırı koruması (anti-hacking)",
+        "en": "Low-battery reminder, anti-tamper alarm, anti-hacking device"
+      },
+      {
+        "k": "doorThickness",
+        "tr": "40–90 mm",
+        "en": "40–90 mm"
+      },
+      {
+        "k": "material",
+        "tr": "ABS + metal",
+        "en": "ABS + metal"
+      },
+      {
+        "k": "power",
+        "tr": "4 kuru pil, Type-C acil şarj",
+        "en": "4 dry-cell batteries, Type-C emergency charging"
+      },
+      {
+        "k": "language",
+        "tr": "Çince ve İngilizce",
+        "en": "Chinese and English"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "4 kuru pil",
+        "en": "4 dry cells"
+      },
+      "ip": ""
+    }
+  },
+  {
+    "code": "AES01",
+    "group": "finger",
+    "name": {
+      "tr": "Akıllı Silindir Kilit",
+      "en": "Smart Cylinder Lock"
+    },
+    "tagline": {
+      "tr": "Parmak izi, şifre ve NFC kartla açılan akıllı silindir; 60–90 mm silindir boyu.",
+      "en": "A smart cylinder that opens by fingerprint, PIN or NFC card, in 60–90 mm cylinder length."
+    },
+    "unlock": [
+      "fingerprint",
+      "pin",
+      "card",
+      "key",
+      "app"
+    ],
+    "conn": "bluetooth",
+    "app": "Tuya / TTLock",
+    "tempPin": false,
+    "body": null,
+    "doorTypes": [
+      "steel",
+      "wood",
+      "aluminium",
+      "pvc"
+    ],
+    "stats": [
+      {
+        "v": "60–90",
+        "tr": "silindir boyu",
+        "en": "cylinder length",
+        "u": "mm"
+      },
+      {
+        "v": "3 × AAA",
+        "tr": "alkalin pil",
+        "en": "alkaline batteries"
+      },
+      {
+        "v": "4",
+        "tr": "açma yöntemi + uygulama",
+        "en": "ways to open, plus app"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "Dört açma yöntemi",
+          "en": "Four ways to open"
+        },
+        "d": {
+          "tr": "Parmak izi, şifre, NFC kart ve acil durum silindiri.",
+          "en": "Fingerprint, PIN, NFC card and an emergency cylinder."
+        }
+      },
+      {
+        "t": {
+          "tr": "Tuya veya TTLock",
+          "en": "Tuya or TTLock"
+        },
+        "d": {
+          "tr": "Bluetooth üzerinden Tuya ya da TTLock uygulaması.",
+          "en": "The Tuya or TTLock app over Bluetooth."
+        }
+      },
+      {
+        "t": {
+          "tr": "Dayanıklı malzeme",
+          "en": "Durable materials"
+        },
+        "d": {
+          "tr": "Ön panel çinko alaşım, orta bölüm bakır ve paslanmaz çelik, arka panel alüminyum alaşım.",
+          "en": "Zinc alloy front, copper and stainless steel middle section, aluminium alloy rear."
+        }
+      },
+      {
+        "t": {
+          "tr": "60–90 mm silindir",
+          "en": "60–90 mm cylinder"
+        },
+        "d": {
+          "tr": "Daha uzun kapılar için 90–120 mm sürümü (AES02) vardır.",
+          "en": "A 90–120 mm version (AES02) is available for thicker doors."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Parmak izi, şifre, NFC kart, acil durum silindiri, uygulama (Tuya veya TTLock, Bluetooth)",
+        "en": "Fingerprint, PIN, NFC card, emergency cylinder, app (Tuya or TTLock, Bluetooth)"
+      },
+      {
+        "k": "material",
+        "tr": "Ön panel çinko alaşım; orta bölüm bakır + paslanmaz çelik; arka panel alüminyum alaşım",
+        "en": "Zinc alloy front panel; copper + stainless steel middle section; aluminium alloy rear panel"
+      },
+      {
+        "k": "cylLength",
+        "tr": "60–90 mm",
+        "en": "60–90 mm"
+      },
+      {
+        "k": "power",
+        "tr": "3 × AAA alkalin pil",
+        "en": "3 × AAA alkaline batteries"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "3 × AAA",
+        "en": "3 × AAA"
+      },
+      "ip": ""
+    }
+  },
+  {
+    "code": "AEC01",
+    "group": "window",
+    "name": {
+      "tr": "Şifreli Akıllı Pencere Kolu",
+      "en": "Keypad Smart Window Handle"
+    },
+    "tagline": {
+      "tr": "Şifreyle açılan pencere kolu: sürgülü, üstten menteşeli ve vasistas pencereler için.",
+      "en": "A window handle that opens with a PIN, for sliding, top-hung and tilt-and-turn windows."
+    },
+    "unlock": [
+      "pin"
+    ],
+    "conn": "none",
+    "app": null,
+    "tempPin": false,
+    "body": null,
+    "doorTypes": [
+      "window"
+    ],
+    "colors": {
+      "tr": [
+        "Siyah",
+        "Gümüş",
+        "Gri"
+      ],
+      "en": [
+        "Black",
+        "Silver",
+        "Grey"
+      ]
+    },
+    "stats": [
+      {
+        "v": "1",
+        "tr": "şifre grubu",
+        "en": "PIN group"
+      },
+      {
+        "v": "3",
+        "tr": "renk seçeneği",
+        "en": "colour options"
+      },
+      {
+        "v": "4 × AA",
+        "tr": "pil",
+        "en": "batteries"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "Şifreyle açılır",
+          "en": "Opens with a PIN"
+        },
+        "d": {
+          "tr": "Pencere kolu yalnızca şifre girilince açılır.",
+          "en": "The handle only opens once the PIN is entered."
+        }
+      },
+      {
+        "t": {
+          "tr": "Sahte şifre",
+          "en": "Decoy PIN"
+        },
+        "d": {
+          "tr": "Şifre girilirken izlenmeye karşı sahte şifre desteği.",
+          "en": "Decoy PIN support against onlookers."
+        }
+      },
+      {
+        "t": {
+          "tr": "Acil açma",
+          "en": "Emergency opening"
+        },
+        "d": {
+          "tr": "Kolun yanındaki vidalar sökülerek açılır.",
+          "en": "Opens by undoing the screws on the side of the handle."
+        }
+      },
+      {
+        "t": {
+          "tr": "Üç renk",
+          "en": "Three colours"
+        },
+        "d": {
+          "tr": "Siyah, gümüş ve gri.",
+          "en": "Black, silver and grey."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Şifre, sahte şifre, acil açma (kolun yanındaki vidalar sökülerek)",
+        "en": "PIN, decoy PIN, emergency opening (by undoing the screws on the side of the handle)"
+      },
+      {
+        "k": "capacity",
+        "tr": "1 şifre grubu",
+        "en": "1 PIN group"
+      },
+      {
+        "k": "material",
+        "tr": "Alüminyum alaşım + çinko alaşım",
+        "en": "Aluminium alloy + zinc alloy"
+      },
+      {
+        "k": "power",
+        "tr": "4 × AA kuru pil",
+        "en": "4 × AA dry-cell batteries"
+      },
+      {
+        "k": "windows",
+        "tr": "Sürgülü kapı ve pencereler, sineklikli pencereler, üstten menteşeli pencereler, içe açılan ve vasistas pencereler",
+        "en": "Sliding doors and windows, windows with integrated screens, top-hung windows, inward-opening and tilt-and-turn windows"
+      },
+      {
+        "k": "colors",
+        "tr": "Siyah, gümüş, gri",
+        "en": "Black, silver, grey"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "4 × AA",
+        "en": "4 × AA"
+      },
+      "ip": ""
+    }
+  },
+  {
+    "code": "AEGC01",
+    "group": "window",
+    "name": {
+      "tr": "Akıllı Dolap Kilidi",
+      "en": "Smart Cabinet Lock"
+    },
+    "tagline": {
+      "tr": "Şifreli ve kartlı, 304 paslanmaz çelik dolap kilidi.",
+      "en": "A 304 stainless steel cabinet lock that opens by PIN or card."
+    },
+    "unlock": [
+      "pin",
+      "card"
+    ],
+    "conn": "none",
+    "app": null,
+    "tempPin": false,
+    "body": null,
+    "doorTypes": [
+      "cabinet"
+    ],
+    "stats": [
+      {
+        "v": "304",
+        "tr": "paslanmaz çelik",
+        "en": "stainless steel"
+      },
+      {
+        "v": "2",
+        "tr": "şifre modu",
+        "en": "PIN modes"
+      },
+      {
+        "v": "≥ 1",
+        "tr": "kapak kalınlığı",
+        "en": "door thickness",
+        "u": "mm"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "Kademeli yetki",
+          "en": "Tiered access"
+        },
+        "d": {
+          "tr": "Kademeli güvenlik yönetimi.",
+          "en": "Tiered security management."
+        }
+      },
+      {
+        "t": {
+          "tr": "İki şifre modu",
+          "en": "Two PIN modes"
+        },
+        "d": {
+          "tr": "Kalıcı veya tek kullanımlık şifre arasında geçiş yapılır.",
+          "en": "Switch between a permanent and a one-time PIN."
+        }
+      },
+      {
+        "t": {
+          "tr": "Aydınlatmalı tuş takımı",
+          "en": "Backlit keypad"
+        },
+        "d": {
+          "tr": "Kilitliyken gösterge ışığı yanıp söner.",
+          "en": "An indicator light flashes while locked."
+        }
+      },
+      {
+        "t": {
+          "tr": "Alarmlar",
+          "en": "Alarms"
+        },
+        "d": {
+          "tr": "Yanlış şifre, yetkisiz kart, düşük voltaj ve kurcalama alarmları.",
+          "en": "Alarms for wrong PIN, unauthorised card, low voltage and tampering."
+        }
+      },
+      {
+        "t": {
+          "tr": "Her kapağa uygun",
+          "en": "Fits any door"
+        },
+        "d": {
+          "tr": "İnce veya kalın her kapakta kullanılır; harici yedek güç girişi vardır.",
+          "en": "Suits thin or thick doors, with an external backup power input."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Şifre, kart",
+        "en": "PIN, card"
+      },
+      {
+        "k": "features",
+        "tr": "Kademeli güvenlik yönetimi; kalıcı veya tek kullanımlık şifre; aydınlatmalı tuş takımı; kilitliyken yanıp sönen gösterge; harici yedek güç",
+        "en": "Tiered security management; permanent or one-time PIN; backlit keypad; indicator flashes when locked; external backup power"
+      },
+      {
+        "k": "security",
+        "tr": "Yanlış şifre ve yetkisiz kart alarmı, düşük voltaj alarmı, kurcalama alarmı",
+        "en": "Wrong PIN and unauthorised card alarm, low-voltage alarm, anti-tamper alarm"
+      },
+      {
+        "k": "material",
+        "tr": "304 paslanmaz çelik",
+        "en": "304 stainless steel"
+      },
+      {
+        "k": "doorThickness",
+        "tr": "≥ 1 mm (ince veya kalın her kapak)",
+        "en": "≥ 1 mm (any thin or thick door)"
+      },
+      {
+        "k": "power",
+        "tr": "3 × AA alkalin pil",
+        "en": "3 × AA alkaline batteries"
+      },
+      {
+        "k": "current",
+        "tr": "Bekleme ≤ 20 µA; çalışma ≤ 200 mA",
+        "en": "Standby ≤ 20 µA; operating ≤ 200 mA"
+      },
+      {
+        "k": "lowBattery",
+        "tr": "3,7 ± 0,2 V",
+        "en": "3.7 ± 0.2 V"
+      },
+      {
+        "k": "conditions",
+        "tr": "−15 °C ile +55 °C; %20–95 bağıl nem",
+        "en": "−15 °C to +55 °C; 20–95% relative humidity"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "3 × AA",
+        "en": "3 × AA"
+      },
+      "ip": ""
+    }
+  },
+  {
+    "code": "AEJ17",
+    "group": "hotel",
+    "name": {
+      "tr": "Kartlı Otel Kilidi (31 mm panel)",
+      "en": "Hotel Card Lock (31 mm panel)"
+    },
+    "tagline": {
+      "tr": "31 mm panel genişliğinde kartlı otel kilidi; otel yönetim sistemi ve kart kodlayıcıyla çalışır.",
+      "en": "A hotel card lock with a 31 mm panel that works with a hotel management system and card issuer."
+    },
+    "unlock": [
+      "card",
+      "key"
+    ],
+    "conn": "system",
+    "app": null,
+    "appLabel": {
+      "tr": "Otel yönetim yazılımı",
+      "en": "Hotel management software"
+    },
+    "tempPin": false,
+    "body": null,
+    "doorTypes": [
+      "aluminium",
+      "glassFramed",
+      "hotel"
+    ],
+    "stats": [
+      {
+        "v": "31",
+        "tr": "panel genişliği",
+        "en": "panel width",
+        "u": "mm"
+      },
+      {
+        "v": "HF + LF",
+        "tr": "yüksek ve düşük frekans kart",
+        "en": "high- and low-frequency cards"
+      },
+      {
+        "v": "2",
+        "tr": "açma yöntemi",
+        "en": "ways to open"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "31 mm panel",
+          "en": "31 mm panel"
+        },
+        "d": {
+          "tr": "Dar panel tipi.",
+          "en": "A narrow panel type."
+        }
+      },
+      {
+        "t": {
+          "tr": "Otel yönetim sistemi",
+          "en": "Hotel management system"
+        },
+        "d": {
+          "tr": "Otel yönetim sistemi ve kart kodlayıcıyla çalışan klasik otel kilidi.",
+          "en": "A traditional hotel lock that works with a hotel management system and card issuer."
+        }
+      },
+      {
+        "t": {
+          "tr": "Yüksek ve düşük frekans",
+          "en": "High and low frequency"
+        },
+        "d": {
+          "tr": "Yüksek frekanslı ve düşük frekanslı kartlarla çalışır.",
+          "en": "Works with high-frequency and low-frequency cards."
+        }
+      },
+      {
+        "t": {
+          "tr": "Kart ve anahtar",
+          "en": "Card and key"
+        },
+        "d": {
+          "tr": "Kartla veya anahtarla açılır.",
+          "en": "Opens by card or key."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Kart, anahtar",
+        "en": "Card, key"
+      },
+      {
+        "k": "system",
+        "tr": "Klasik otel kilidi: otel yönetim sistemi, kart kodlayıcı, kartlar (yüksek / düşük frekans); el terminali yoktur",
+        "en": "Traditional hotel lock: hotel management system, card issuer, cards (high / low frequency); no handheld device"
+      },
+      {
+        "k": "panelWidth",
+        "tr": "31 mm",
+        "en": "31 mm"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "–",
+        "en": "–"
+      },
+      "ip": ""
+    }
+  },
+  {
+    "code": "AEJ62",
+    "group": "hotel",
+    "name": {
+      "tr": "Paslanmaz Çelik Otel Kilidi",
+      "en": "Stainless Steel Hotel Lock"
+    },
+    "tagline": {
+      "tr": "Paslanmaz çelik gövdeli, kartla açılan otel kilidi; otel kilit gövdesiyle.",
+      "en": "A stainless steel hotel lock that opens by card, with a hotel lock body."
+    },
+    "unlock": [
+      "card"
+    ],
+    "conn": "system",
+    "app": null,
+    "appLabel": {
+      "tr": "Otel kilit sistemi",
+      "en": "Hotel lock system"
+    },
+    "tempPin": false,
+    "body": "hotel",
+    "doorTypes": [
+      "wood",
+      "hotel"
+    ],
+    "colors": {
+      "tr": [
+        "Paslanmaz çelik",
+        "Siyah",
+        "Altın",
+        "Antik kırmızı"
+      ],
+      "en": [
+        "Stainless steel",
+        "Black",
+        "Gold",
+        "Antique red"
+      ]
+    },
+    "stats": [
+      {
+        "v": "245 × 74",
+        "tr": "panel ölçüsü",
+        "en": "panel size",
+        "u": "mm"
+      },
+      {
+        "v": "4",
+        "tr": "renk seçeneği",
+        "en": "colour options"
+      },
+      {
+        "v": "Kart",
+        "tr": "ile açma",
+        "en": "opening",
+        "en_v": "Card"
+      }
+    ],
+    "highlights": [
+      {
+        "t": {
+          "tr": "Paslanmaz çelik gövde",
+          "en": "Stainless steel body"
+        },
+        "d": {
+          "tr": "245 × 74 mm paslanmaz çelik panel.",
+          "en": "A 245 × 74 mm stainless steel panel."
+        }
+      },
+      {
+        "t": {
+          "tr": "Kartla açma",
+          "en": "Card opening"
+        },
+        "d": {
+          "tr": "Klasik otel kilit sisteminde yalnızca kartla açılır.",
+          "en": "In the traditional hotel lock system it opens by card only."
+        }
+      },
+      {
+        "t": {
+          "tr": "Otel kilit gövdesi",
+          "en": "Hotel lock body"
+        },
+        "d": {
+          "tr": "Otel tipi kilit gövdesiyle kullanılır.",
+          "en": "Used with a hotel-type lock body."
+        }
+      },
+      {
+        "t": {
+          "tr": "Dört renk",
+          "en": "Four colours"
+        },
+        "d": {
+          "tr": "Paslanmaz çelik, siyah, altın ve antik kırmızı.",
+          "en": "Stainless steel, black, gold and antique red."
+        }
+      }
+    ],
+    "specs": [
+      {
+        "k": "unlock",
+        "tr": "Kart",
+        "en": "Card"
+      },
+      {
+        "k": "system",
+        "tr": "Klasik otel kilit sistemi (yalnızca kartla açma); TTLock otel sistemi sürümünde şifreli kilit bulunur",
+        "en": "Traditional hotel lock system (card only); the TTLock hotel system version includes a keypad lock"
+      },
+      {
+        "k": "material",
+        "tr": "Paslanmaz çelik",
+        "en": "Stainless steel"
+      },
+      {
+        "k": "dims",
+        "tr": "245 × 74 mm",
+        "en": "245 × 74 mm"
+      },
+      {
+        "k": "lockBody",
+        "tr": "Otel kilit gövdesi",
+        "en": "Hotel lock body"
+      },
+      {
+        "k": "colors",
+        "tr": "Paslanmaz çelik, siyah, altın, antik kırmızı",
+        "en": "Stainless steel, black, gold, antique red"
+      }
+    ],
+    "box": null,
+    "hotspots": [],
+    "short": {
+      "power": {
+        "tr": "–",
+        "en": "–"
+      },
+      "ip": ""
+    }
+  }
+]
